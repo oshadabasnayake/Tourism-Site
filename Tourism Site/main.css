@@ -14,7 +14,7 @@
 .button1{
 	color: white;
 	background-color:#03fca1;
-	padding  :16px 120px;
+	padding  :17px 120px;
 	border-radius: 6px;
 	position: absolute;
     left: 600px;
@@ -30,6 +30,6 @@
 	font-size: 60px;
 	color: white;
 	text-align: center;
-	padding-top: 220px;
+	padding-top: 219px;
 
 }
