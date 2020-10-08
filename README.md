@@ -33,7 +33,7 @@ git commit -m "your name"
 git push origin master
 ```
 
-6. **Create your pull request. when you do label it as hacktoberfest**
+6. **Create your pull request. when you do the pull request label it as hacktoberfest**
 7. **:octocat:Congratulations!!! You have successfully created your pull request.**
 8. **Check your progress here (https://hacktoberfest.digitalocean.com/profile) :bar_chart: .**
 9. **Wait for your shirt:tshirt:.**
