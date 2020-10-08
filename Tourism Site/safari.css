@@ -1,0 +1,102 @@
+*{
+	
+	padding: 0;
+	font-family: verdana;
+}
+/*.button1{
+	color: white;
+	background-color:#03fca1;
+	padding  :16px 120px;
+	border-radius: 6px;
+	position: absolute;
+    left: 600px;
+  	top:600px;
+  	cursor: pointer;
+}*/
+
+#parasaf1{
+
+	color: #0e81c4;
+	text-indent: 50px;
+	margin: 50px;
+	font-size: 40px;
+
+}
+
+#parasaf2{
+
+	color: #0e81c4;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#saftable1{
+
+	margin: 50px;
+	margin-left: 20px;
+	height: 200px;
+	width: 100%;
+	text-align: center;
+	border-spacing: 10px 10px;
+	align-content: center;
+	 border: 1px solid black;
+
+
+}
+
+.safimgs{
+
+	width: 293px;
+	height: 172px;
+
+}
+
+.safbutton1{
+
+	color: white;
+	background-color:#03fca1;
+	cursor: pointer;
+	/*border: none;*/
+	padding: 10px;
+}
+
+
+
+
+#divdarkblue1{
+
+	background-color: #092140;
+	text-indent: 60px;
+	height: 100px;
+}
+
+.divdarkblue1safbutton1{
+
+	color: white;
+	background-color:#03fca1;
+	cursor: pointer;
+	padding: 8px;
+
+}
+
+#divdarkblue1parasaf2{
+
+	float :right;
+	padding-bottom: 20px;
+}
+
+#divdarkblue1parasaf1{
+
+	color: white;
+
+
+
+
+table, td, th {
+  border: 1px solid black;
+}
+
+#table2 {
+  border-collapse: separate;
+  border-spacing: 15px 50px;
+}
