@@ -7,7 +7,7 @@
 
 2.Frameworks And Libraries
 
->1.Jquerry
+>1.Jquery
 >2.Angularjs
 >3.Ruby 
 
