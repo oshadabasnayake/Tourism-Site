@@ -1,0 +1,78 @@
+
+#cp1{
+
+	/* background: linear-gradient(to right  ,purple,#ff6666,#ff66ff,orange); */
+
+	background:linear-gradient(to right  ,black,black,black,black,red,red,black,black,black,black);
+	text-align: center;
+	font-size: 30px;
+	font-weight: 1000; 
+
+}
+
+#cp2{
+
+	background: linear-gradient(to right,black,red,black);
+	text-align: center;
+	color: black;
+	height: 50px;
+	
+
+}
+  
+
+
+ 
+#cp3{
+	text-align: center;
+
+}
+#f1{
+	 
+}
+#info {
+
+	width: 100%;
+}
+#mid {
+
+	width: 100%;
+}
+#nm{
+
+	width: 100%;
+}
+
+
+.foot{
+  
+background: linear-gradient(to right,black,red,black);
+	height: 45px;
+	text-align: center;
+	
+}
+/*#image1{
+
+	 
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50px;
+  height: 30px;
+
+}*/
+
+/*#tb1{
+
+	 
+	 background-image: url("2.jpg");
+	background: url("2.jpg") center;
+	background-repeat: no-repeat;
+  	background-size: auto;
+  	z-index: -1;
+  	width: 100%;
+  	height: 100%;
+  	position: fixed;
+} */ 
+
