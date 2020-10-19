@@ -1,4 +1,11 @@
 /* Base */
+html, body {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 body {
   line-height: 1.7;
   color: #4d4d4d;
