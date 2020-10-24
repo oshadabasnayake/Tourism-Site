@@ -4,7 +4,6 @@
 	 border-collapse: collapse;
 	 height: 100%;
 	 width:100%;
-	 
 	 background-color:  black;
 
 }
@@ -24,13 +23,11 @@
 }
 
 .td3{
-
 	text-align: center;
 	color: white;
 }
 
 .td4{
-
 	text-align: center;
 	color: white;
 	/*font-style: italic;*/ }
