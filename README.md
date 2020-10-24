@@ -1,20 +1,22 @@
 # OpenHackDay (Hacktoberfest 2020)
 
-# Happy Open Source❤️😍:octocat:😍❤️ .Tourism Site is personal university project which is opened for community driven with love Github and Hacktoberfest
+# Happy Open Source❤️😍:octocat:😍❤️
+Tourism Site is a personal university project which is open for the community, driven with love by Github and Hacktoberfest contributors.
 
 <br>
 <br>
 
 # Hacktoberfest-Activity
-##<!-- කොල්ලන්ට කෙල්ලන්ට Hacktoberfest ටී ෂර්ට්-->
+<!-- කොල්ලන්ට කෙල්ලන්ට Hacktoberfest ටී ෂර්ට්-->
 ## 👉Hacktoberfest 2020 open source activity. Happy Open Source❤️😍:octocat:😍❤️
 <br>
 
-## 1. goto this site very first and do (https://hacktoberfest.digitalocean.com/profile)
-
+## Step 1
+Go to [this](https://hacktoberfest.digitalocean.com/profile) site, sign up and follow instructions
 <br>
 
-## 2. :octocat:Support open source
+## Step 2
+Support open source repositories such as this one :octocat:
 
 ###  :octocat:Follow this EASY  **guide**:baby::heart_eyes:
 :point_down:
@@ -24,7 +26,8 @@
 
       **enter this code** :point_right:```git clone "repository link"  ```
 
-3. **Add name in Contributors.md file.Do same in here:point_right:[hacktoberfest-Activity-2019](https://github.com/oshada97/Hacktoberfest-Activity-2019)**
+3. **Check for proposed changes in the [issues](https://github.com/oshada97/Tourism-Site/issues) tab**
+4. **Make changes in your local repository**
 4. **Edit Profiles Folder.**
 5. **Enter Terminal Commands.**
  ```
